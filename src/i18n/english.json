@@ -1,0 +1,22 @@
+{
+   "APP_NAME": "Loterias Dominicanas",
+   //tab
+   "ALLCOMPANIES": "Loterías",
+   "QUINIELIAS": "Quinielas",
+   "STATISTICS": "Estadísticas",
+   //statistics
+   "WAYBACK" : "Años Anteriores",
+   "HOT_NUMBERS": "Números Calientes",
+   "COLD_NUMBERS": "Números Fríos",
+   "RECOMMENDED_NUMBERS": "Pronósticos",
+   "NUMBER_SEARCH": "Number Search",
+   "MATCHES": "Matches",
+   "DATE": "Date",
+   "GAME": "Sorteos",
+   "SCORE": "Score",
+   "SEARCH": "Search",
+   "RANK": "Rank",
+   "COUNT":"Count",
+   "POSITIONAL": "Positional"
+}
+
